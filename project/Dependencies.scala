@@ -2,7 +2,7 @@ import sbt._
 
 object Dependencies {
   object V {
-    val scalatest = "3.0.5"
+    val scalatest = "3.0.6-SNAP6"
     val scalatestPlus = "4.0.0"
     val jmockit = "1.24"
     val apacheCodec = "1.10"
